@@ -2,6 +2,6 @@
 
 ##Intro
 
-##Purpose
+##Purpose ni Justin Bieber
 
 ##How to Contribute
