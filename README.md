@@ -7,4 +7,4 @@ is it too late now to say sorry?
 
 ##How to Contribute
 
-2020.Copyright
+2020.Copyright. All rights reserved
